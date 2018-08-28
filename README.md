@@ -1,0 +1,1 @@
+# HibernateJPADay2
